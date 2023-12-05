@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vHITJuhONcedPbPeQlU1vunERMGgSYGHPK5tjslvUy0P8L0wBDTrybcpFzvdQNHrK4rID3UnK11AYiSfs8WIMw==",
+  "dgSpecHash": "faHnE+O+T64n3/8M14F/KI3jE6BwSfRXluZf1CMMQxWZBMMRQMRtjFaIz1uA4pxX1HPn7LbtZEDDH12uCgrkOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aziz\\Desktop\\Dotnet\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aziz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\aziz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\aziz\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\aziz\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\aziz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
